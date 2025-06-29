@@ -1,0 +1,40 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+#page-header {
+  background-color: #0077cc;
+  color: white;
+  padding: 1rem;
+}
+
+#main-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+#main-nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#content {
+  padding: 2rem;
+  background-color: white;
+  margin: 1rem;
+}
+
+#page-footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 1rem;
+  background-color: #eee;
+}
