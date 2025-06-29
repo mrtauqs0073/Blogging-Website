@@ -1,0 +1,42 @@
+/* Blog Page Styles */
+
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #fffaf0;
+  color: #222;
+}
+
+#blog-header {
+  background-color: #cc5500;
+  color: white;
+  padding: 1rem;
+}
+
+#blog-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+#blog-nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#blog-content {
+  padding: 2rem;
+}
+
+#posts article {
+  margin-bottom: 2rem;
+}
+
+#blog-footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+}
