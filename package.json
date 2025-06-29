@@ -1,0 +1,12 @@
+{
+  "name": "blogging-website",
+  "version": "1.0.0",
+  "description": "A static blogging website built with Parcel",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./"
+  },
+  "devDependencies": {
+    "parcel":"^2.9.3"
+    }
+}
