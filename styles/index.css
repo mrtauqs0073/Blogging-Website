@@ -1,0 +1,41 @@
+/* Main Index Page Styles */
+
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+#main-header {
+  background-color: #3333cc;
+  color: white;
+  padding: 1rem;
+}
+
+#main-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#main-nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#main-content {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+#main-footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 1rem;
+  background-color: #eeeeee;
+}
